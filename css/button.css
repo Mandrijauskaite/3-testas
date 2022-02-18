@@ -1,0 +1,12 @@
+.button {
+    font-size: 23px;
+    font-weight: 400px;
+    
+    margin-top: 50px;
+    flex-direction: row;
+    color: #233bf3;
+    background-color: #233bf3;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 1em;
+}
